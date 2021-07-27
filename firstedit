@@ -1,0 +1,50 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int investmentAmount;
+int monthlyDeposit;
+int AnnualInterest;
+unsigned int j;
+unsigned int i;
+int monthNumber[60];
+int yearNumber[5];
+
+
+  
+void userInput()
+{
+
+if (investmentAmount >=0) {
+  cout << "Initial Investment Amount: " << endl;
+  cin >> investmentAmount;
+  
+}
+if (monthlyDeposit >= 0) {
+    cout << "Initial Deposit: "  << endl;
+    cin >> monthlyDeposit;
+}
+
+
+for (i = 0 : i > = yearNumber; ++i) {
+    yearNumber.at(i)
+}
+
+
+int main() {
+
+    
+    int monthNumber[] = {
+      for(int i = 0; i >= monthNumber; i++) {
+        monthNumber.at(i) = userInput;
+        cout << output 1-5
+        i++
+      }
+    
+  
+startingMonth = x
+endingMont = y
+  
+    }
+
+
